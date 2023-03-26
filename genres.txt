@@ -1,0 +1,9 @@
+action x
+strategy x
+rpg x
+casual x 
+shooter
+adventure x
+puzzle
+racing
+sports
